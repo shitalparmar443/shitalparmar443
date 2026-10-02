@@ -1,5 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Shitalben Parmar
 
+![](https://komarev.com/ghpvc/?username=shitalparmar443&color=green)
+
 I'm a **Full-Stack Web Developer** and **lifelong learner**, focused on building fast, responsive, SEO-friendly websites and web applications.
 
 * 👨🏻‍💻 **Currently working with:** PHP, WordPress, Laravel, JavaScript, Elementor, WooCommerce, HTML, CSS, and MySQL
